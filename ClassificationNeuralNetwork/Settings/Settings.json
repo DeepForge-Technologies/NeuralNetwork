@@ -35,8 +35,21 @@
         "notepad":32,
         "mail":33,
         "date":34,
-        "how_are_you":35,
-        "what_you_do":36
+        "pycharm":35,
+        "terminal":36,
+        "next-music":37,
+        "previous-music":38,
+        "django_project":39,
+        "c++_project":40,
+        "echo-bot":41,
+        "rust_project":42,
+        "go_project":43,
+        "c_project":44,
+        "python_project":45,
+        "NodeJS_project":46,
+        "java_project":47,
+        "it_news":48,
+        "wikipedia":49
     },
     "CATEGORIES_TARGET":{
         "0":"communication",
@@ -74,7 +87,23 @@
         "32":"notepad",
         "33":"mail",
         "34":"date",
-        "35":"how_are_you",
-        "36":"what_you_do"
-    }
+        "35":"pycharm",
+        "36":"terminal",
+        "37":"next-music",
+        "38":"previous-music",
+        "39":"django_project",
+        "40":"c++_project",
+        "41":"echo-bot",
+        "42":"rust_project",
+        "43":"go_project",
+        "44":"c_project",
+        "45":"python_project",
+        "46":"NodeJS_project",
+        "47":"java_project",
+        "48":"it_news",
+        "49":"wikipedia"
+    },
+    "learning_rate":0.001,
+    "EPOCHS":100000,
+    "BATCH_SIZE":50
 }
