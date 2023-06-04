@@ -1,1 +1,2 @@
-<h1 align="center">Neural Network</h1>
+# NeuralNetwork
+Репозиторий с открытым исходным кодом нейросетей

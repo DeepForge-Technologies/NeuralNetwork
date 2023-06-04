@@ -1,6 +1,10 @@
 /RuBQ
 posts.csv
 /model/
+/SpeechNeuralNetwork/Datasets/SpeechDataset
+/SpeechNeuralNetwork/Datasets/TTSDataset/
+/SpeechNeuralNetwork/Datasets/ASRDataset/
+/ObjectDetection/Datasets/train.dataset
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
